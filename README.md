@@ -55,6 +55,8 @@ Les repos de l'application contiennent des libs utilitaires suffisament versatil
 * récupérer les informations d'un livre et les afficher
 * récupérer les informations de l'ensemble des personnages d'un livre et les afficher
 
+    L'API à utiliser est la suivante : https://anapioficeandfire.com/api
+
 --------------------------
 ### Exercice développeur fullstack
 - L'application possède un système d'authenficiation basique, et sans sauvegarde de session
